@@ -16,4 +16,5 @@ Users can add, edit, mark as complete, and delete tasks with a clean pastel blue
 
 ## 🖼️ Screenshot  
 
-![Screenshot](todo-app screenshot.png)
+![Screenshot](https://github.com/ishita-wadhwa/todo-app/blob/main/todo-app%20screenshot.png?raw=true.png)
+
